@@ -1,0 +1,37 @@
+body{
+	background-color: rgb(36, 41, 46) !important;
+}
+
+h1, h2, h3, h4, h5, h6 ,p{
+	color: #fff  !important;
+}
+#team{
+  background-color: rgb(46, 36, 36) !important;
+}
+#about{
+  background-color: rgb(46, 36, 36) !important;
+}
+#portfolio{
+  background-color: rgb(46, 36, 36) !important;
+}
+a, p, span, small{
+	color: #eaeaea !important; 
+}
+
+#pricetable{
+    color: rgb(36, 41, 46) !important;
+    
+  }
+.headprice{
+    background-color:darkred !important;
+  }
+  .text{
+    color: #ffffff !important;
+  }
+  
+ .head span{
+    color: black !important;}
+
+.darkfooter{
+  background-color: rgb(69, 49, 49) !important;
+}
